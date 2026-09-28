@@ -1,0 +1,6 @@
+{
+  "name": "Storage Guardian AI",
+  "description": "Monitor inteligente, analizador y limpiador automático de almacenamiento para macOS especializado en modelos de IA, navegadores, edición de video y desarrollo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
